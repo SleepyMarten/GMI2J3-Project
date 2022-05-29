@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KKfmWGJ0qGrYxFgZSM9POm3cruOfBvpRu4GTb8OBjrI=",
+  "Source": "AirplaneManagerApi",
+  "BasePath": "_content/AirplaneManagerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
